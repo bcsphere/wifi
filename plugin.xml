@@ -37,7 +37,7 @@
   <platform name="ios">
       <config-file target="config.xml" parent="/*">
           <feature name="BCWifi">
-              <param name="ios-package" value="org.bcsphere.wifi.BCWifi"/>
+              <param name="ios-package" value="BCWifi"/>
           </feature>
       </config-file>
     
